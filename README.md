@@ -1,4 +1,4 @@
-# Welcome to my SpaceX Falcon 9 Launch Outcome Prediction Project. Here is a breakdown of some of the things i was able to achieve!
+# Welcome to my SpaceX Falcon 9 Launch Outcome Prediction Project. Below is an overview of the key achievements and insights gained throughout this project!
 • Conducted detailed data analysis on 100+ SpaceX Falcon 9 launches, improving the prediction accuracy of first-stage booster
 landings using Logistic Regression and SVM
 • Built interactive dashboards with Python’s Plotly Dash, visualizing mission outcomes and enabling real-time insights
